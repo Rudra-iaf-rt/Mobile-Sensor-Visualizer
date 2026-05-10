@@ -29,9 +29,7 @@ The system is built for high-frequency sensor ingestion, scalability, and real-t
 
 ### 1. Android Sensor Client
 
-An android app, [SensorSpot](https://github.com/UmerCodez/SensorSpot) reads various sensors' data (we can choose sensors from the app) and publishes it to a public MQTT broker.
-
-Special thanks to [UmerCodez](https://github.com/UmerCodez).
+An android app, reads various sensors' data (we can choose sensors from the app) and publishes it to a public MQTT broker.
 
 
 ### 2. MQTT broker
